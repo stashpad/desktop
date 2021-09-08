@@ -1,1 +1,1 @@
-# desktop
+# The Bytebase desktop app.
